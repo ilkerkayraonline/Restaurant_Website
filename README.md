@@ -1,7 +1,7 @@
 # Restaurant_Website
 
 
-<h2>Here is my Restaurant Website Example</h2>
+<h2>Here Is My Restaurant Website Example</h2>
 
 <h3>It was designed to be very close to reality, fully responsive and user-friendly. Open to customization however you want.</h3>
 
