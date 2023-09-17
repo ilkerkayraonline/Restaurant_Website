@@ -9,4 +9,5 @@
 
 <h2>Application Screenshot</h2>
 
-![](restaurant_webasite.gif)
+
+![](restaurant_website.gif)
