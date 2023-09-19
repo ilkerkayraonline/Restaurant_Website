@@ -92,6 +92,7 @@ a{
     padding: 1rem;
     text-transform: none;
     border: 3rem;
+    margin-left: 3rem;
 
 
 }
@@ -103,10 +104,11 @@ a{
     top: 115%;
     right: 7%;
     background-color: #fff;
-    width: 50rem;
+    width: 50%;
     height: 5rem;
     display: flex;
     align-items: center;
+    justify-content: center;
     border-radius: 3rem; 
    box-shadow: 0px 0px 25px 2px rgb(0 0 0 / 75%);
     transform: scaleY(0); 
